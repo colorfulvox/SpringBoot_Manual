@@ -1,6 +1,8 @@
 [뒤로가기](../../README.md)<br>
 
-# SpringBoot 기본 프로젝트
+# SpringBoot 프로젝트 시작
+
+### 프로젝트 예시는 SpringBoot_Repository/demo 프로젝트이다.
 
 ## 프로젝트 환경
 
@@ -16,7 +18,7 @@
 
 ## 시작
 
-Gradle 프로젝트를 생성하고 실행한다.
+SpringBoot 프로젝트를 생성한뒤 실행, 빌드를 진행한다.
 
 ### (1) SpringBoot 프로젝트 생성
 

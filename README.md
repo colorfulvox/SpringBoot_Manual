@@ -23,7 +23,7 @@ SpringBoot의 구조와 기능들을 정리한 문서이다.<br>
 
 ## Document
 
-### [프로젝트 시작](./Data/Document/FirstProject.md)
+### [프로젝트 시작](./Data/Document/FirstProject.md) [생성, 실행, 빌드]
 
 ### 프로젝트 구조
 
