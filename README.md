@@ -3,7 +3,7 @@
 # SpringBoot_Manual
 
 SpringBoot의 구조와 기능들을 정리한 문서이다.<br>
-기능 예시가 들어가며 Data/SpringBoot_Repository의 프로젝트들을 참고한다.<br>
+프로젝트의 예시는 Data/SpringBoot_Repository에 있다.<br>
 
 개발중에 참고할 수 있는 문서로 사용된다.<br>
 
