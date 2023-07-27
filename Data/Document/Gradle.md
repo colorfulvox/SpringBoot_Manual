@@ -55,12 +55,22 @@ JUnit5는 Java언어를 위한 테스팅 프레임워크이다.<br>
 
 ### [gradlew 명령어]
 
-./gradlew build : 일반적인 프로젝트 빌드를 진행한다.
+> ./gradlew build
 
-./gradlew build -x test : 프로젝트의 테스트를 건너뛰고 빌드를 진행한다.
+일반적인 프로젝트 빌드를 진행한다.
 
-./gradlew test : 빌드를 하기전 빌드가 가능한지 테스트를 진행한다.
+> ./gradlew build -x test
 
-./gradlew bootRun : 빌드를 한뒤 앱을 실행한다.
+프로젝트의 테스트를 건너뛰고 빌드를 진행한다.
 
-./gradlew wrap : gradle-wrapper.jar를 생성한다.
+> ./gradlew test
+
+빌드를 하기전 빌드가 가능한지 테스트를 진행한다.
+
+> ./gradlew bootRun
+
+빌드를 한뒤 앱을 실행한다.
+
+> ./gradlew wrap
+
+gradle-wrapper.jar를 생성한다.
