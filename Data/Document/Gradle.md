@@ -53,7 +53,7 @@ tasks.named('test') : Gradle의 테스트 태스크를 구성한다.
 useJUnitPlatform()는 JUnit5를 테스트 실행에서 사용하도록 한다.<br>
 JUnit5는 Java언어를 위한 테스팅 프레임워크이다.<br>
 
-### [기본적인 gradlew 명령어]
+### [gradlew 명령어]
 
 ./gradlew build : 일반적인 프로젝트 빌드를 진행한다.
 
