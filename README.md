@@ -25,9 +25,21 @@ SpringBoot의 구조와 기능들을 정리한 문서이다.<br>
 
 ### [프로젝트 시작](./Data/Document/FirstProject.md) [생성, 실행, 빌드]
 
-### [프로젝트 구조](./Data/Document/projectstructure.md)
+### [프로젝트 파일 구조](./Data/Document/projectstructure.md)
 
-### SpringBoot 구조
+### [서비스 구조](./Data/Document/MVC.md)
+
+- [서비스 예시]
+
+### [Controller]
+
+### [DTO]
+
+### [Service]
+
+### [Entity]
+
+### [DAO(Repository)]
 
 ### 라이브러리
 
