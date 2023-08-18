@@ -12,7 +12,7 @@ Model, View, Controller의 줄인말로 앱을 구성할때 구성요소를 3가
 ### (1)
 
 클라이언트 요청(Request)을 받으면 DispatcherServlet이 요청을 받아<br>
-해당 요청에 대한 URI를 Handler Mapping에게 보내 매핑이 가능한 (핸들러)Controller를 식별하도록 한다.<br>
+해당 요청에 대한 URL를 Handler Mapping에게 보내 매핑이 가능한 (핸들러)Controller를 식별하도록 한다.<br>
 
 ### (2)
 
