@@ -241,7 +241,7 @@ public User CreateUser(User user) {
     }
 ```
 
-실제 DB에 save(Create)요청을 하여 DB에 접근하게된다.
+실제 DB에 save(Create)요청을 하며 DB에 접근하게된다.
 (JPA의 save메서드)<br>
 데이터를 보낼때도 Entity 객체로 보낸다.<br>
 
