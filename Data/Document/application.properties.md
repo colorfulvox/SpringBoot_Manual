@@ -48,3 +48,15 @@ spring.datasource.url=jdbc:mariadb://127.0.0.1:3306/account
 spring.datasource.username=root
 spring.datasource.password=1q2w3e4r
 ```
+
+### Spring URL 경로 매칭 전략
+
+클라이언트의 요청 URL과 컨트롤러의 URL 패턴을 비교하여 어떤 컨트롤러 메서드를 실행할지
+결정하는데 사용한다.<br>
+
+Spring MVC에서는 AntPathMathcer와 PathPatternParser 전략을 사용한다.<br>
+
+> spring.mvc.pathmatch.matching-strategy=ant_path_matcher // path_pattern_parser
+
+하지만, SpringBoot 2.6 버전 이후부터는 기본 전략이 path_pattern_parser으로 바뀌었다.<br>
+그래서 추가한 몇몇 라이브러리에 오류가 발생할 수 있다.<br>

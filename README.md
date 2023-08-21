@@ -29,7 +29,11 @@ SpringBoot의 구조와 기능들을 정리한 문서이다.<br>
 
 ### [서비스 구조](./Data/Document/MVC.md)
 
-- [서비스 예시](./Data/Document/MVC_Example.md)
+### [서비스 예시](./Data/Document/MVC_Example.md)
+
+### [Bean 이란?]
+
+---
 
 ### [Controller]
 
@@ -41,6 +45,8 @@ SpringBoot의 구조와 기능들을 정리한 문서이다.<br>
 
 ### [DAO(Repository)]
 
+---
+
 ### 라이브러리
 
 - [Spring Web](./Data/Document/Library/SpringWeb.md)
@@ -48,7 +54,7 @@ SpringBoot의 구조와 기능들을 정리한 문서이다.<br>
 - [LomBok](./Data/Document/Library/Lombok.md)
 - [Spring Data JPA](./Data/Document/Library/Spring%20Data%20JPA.md) - 추가 설명 필요
 - [MariaDB Driver](./Data/Document/Library/MariaDB%20Driver.md)
-- [Swagger]
+- [Swagger](./Data/Document/Library/Swagger.md)
 
 ### ETC
 
