@@ -44,14 +44,13 @@ SpringBoot의 구조와 기능들을 정리한 문서이다.<br>
 ### 라이브러리
 
 - [Spring Web](./Data/Document/Library/SpringWeb.md)
-- [SpringBoot DevTools]
-- [LomBok]
-- [Spring Data JPA]
-- [MariaDB Driver]
+- [SpringBoot DevTools](./Data/Document/Library/SpringBootDevtools.md)
+- [LomBok](./Data/Document/Library/Lombok.md)
+- [Spring Data JPA](./Data/Document/Library/Spring%20Data%20JPA.md) - 추가 설명 필요
+- [MariaDB Driver](./Data/Document/Library/MariaDB%20Driver.md)
 - [Swagger]
 
 ### ETC
 
 - [Gradle](./Data/Document/Gradle.md)
 - [application.properties](./Data/Document/application.properties.md)
-- [MariaDB]
