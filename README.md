@@ -35,7 +35,7 @@ SpringBoot의 구조와 기능들을 정리한 문서이다.<br>
 
 ---
 
-### [Controller]
+### [Controller](./Data/Document/Controller.md)
 
 ### [DTO]
 
