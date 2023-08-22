@@ -31,7 +31,7 @@ SpringBoot의 구조와 기능들을 정리한 문서이다.<br>
 
 ### [서비스 예시](./Data/Document/MVC_Example.md)
 
-### [Bean 이란?]
+### [Bean과 어노테이션](./Data/Document/Bean.md)
 
 ---
 
