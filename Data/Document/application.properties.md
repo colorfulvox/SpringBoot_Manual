@@ -49,9 +49,9 @@ spring.datasource.username=root
 spring.datasource.password=1q2w3e4r
 ```
 
-### Spring URL 경로 매칭 전략
+### Spring URI 경로 매칭 전략
 
-클라이언트의 요청 URL과 컨트롤러의 URL 패턴을 비교하여 어떤 컨트롤러 메서드를 실행할지
+클라이언트의 요청 URI와 컨트롤러의 URI 패턴을 비교하여 어떤 컨트롤러 메서드를 실행할지
 결정하는데 사용한다.<br>
 
 Spring MVC에서는 AntPathMathcer와 PathPatternParser 전략을 사용한다.<br>
